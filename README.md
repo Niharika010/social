@@ -1,2 +1,2 @@
-# IonicFire
-A simple Ionic App to demonstrate Firebase connectivity 
+# Social
+A simple Ionic App to demonstrate social login
